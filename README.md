@@ -34,7 +34,7 @@ Ridge and Lasso regressor
 SVM regressor
 Decision tree and random forest
 
-The test accuracy score was improved from .53 to .80
+The R sqaure improved from .53 to .80
 
 
 Link to the dataset : https://www.kaggle.com/orgesleka/used-cars-database
